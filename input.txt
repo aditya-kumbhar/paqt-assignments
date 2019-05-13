@@ -1,0 +1,5 @@
+This is an input file for an assignment
+In the assignment the program will count distinct words and store the result
+The result will be viewed in output file
+The result will be alphabetically sorted
+Numeric values such as 12 10 12 will be printed at the start of output file
